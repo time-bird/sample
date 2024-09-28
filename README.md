@@ -1,4 +1,8 @@
-## Hi there 👋
+## Folder&Files Text Word Counter
+
+https://github.com/time-bird/time-bird/tree/main/VSCode/folder-and-files-text-wordcounter
+
+VSCodeのエクスプローラー上でフォルダまたは複数テキストファイルを選択して文字数を合計する拡張機能のコードです。
 
 <!--
 **time-bird/time-bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
